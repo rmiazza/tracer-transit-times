@@ -13,7 +13,7 @@ This repository contains Python scripts, illustrative Jupyter notebooks and the 
 ## Contents
 
 `model_initialization.ipynb`: Jupyter notebook demonstrating how the model can be set up and run, with basic vizalisations.  
-`hydrologic_model.py`: Python script containing the hydrologic model.
+`hydrologic_model.py`: Python script containing the hydrologic model.  
 `data`: Folder containing the original hydrologic data used to run the model.
 
 ---
