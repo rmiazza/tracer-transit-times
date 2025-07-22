@@ -14,7 +14,7 @@ This repository contains Python scripts, illustrative Jupyter notebooks and the 
 
 `model_initialization.ipynb`: Jupyter notebook demonstrating how the model can be set up and run, with basic visualizations.  
 `randomly_sampled_model.py`: Python script containing the randomly sampled hydrologic model.  
-`data`: Folder containing the original hydrologic data used to run the model.
+`Hydrologic_datacsv`: Comma separated values file containing the original hydrologic timeseries used to run the model.
 
 ---
 
