@@ -20,7 +20,7 @@ This repository contains Python scripts, illustrative Jupyter notebooks and the 
 
 ## Environment Setup
 
-We recommend using a Python virtual environment (e.g. conda) for reproducibility. The notebooks require the following Python libraries (as well as their dependencies):
+We recommend using a Python virtual environment (e.g. conda) for reproducibility. The notebook and script require the following Python libraries (as well as their dependencies):
 - Numpy (https://numpy.org/)
 - Pandas (https://pandas.pydata.org/)
 - Matplotlib (https://matplotlib.org/)
